@@ -1,6 +1,0 @@
-#Upgrade to Mavericks
-
-For information, go to [Apple Support]( http://www.apple.com/osx/how-to-upgrade/) 
-	
-The "how to upgrade" file includes earliest versions that can upgrade directly to Mavericks and basic instructions on how to upgrade. Expand the page as necessary.
-
